@@ -49,15 +49,15 @@ I am a Full Stack Developer from Brazil 🇧🇷
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" **alt="MongoDB" width="70" height="70"/>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="60" height="60"/>
 </div>
   
 ---
   
 ### 📈 My Stats :  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maatheusLeite&show_icons=true&theme=dark&border_radius=15&ring_color=21A27A&text_color=F6F5F4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maatheusLeite&show_icons=true&theme=dark&border_radius=15&ring_color=21A27A&text_color=F6F5F4&card_width=495)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maatheusLeite&theme=black-ice&border_radius=15&mode=weekly&ring=EB5454&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maatheusLeite&layout=compact&theme=dark&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maatheusLeite&layout=compact&theme=dark&border_radius=15&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
   
