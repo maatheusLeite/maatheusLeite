@@ -30,7 +30,7 @@ I am a Full Stack Developer from Brazil 🇧🇷
   
 - 💻 I’m currently learning microservices architecture with Spring Boot
 - 📚 In my free time I like to read books and study new technologies.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Leite-blue?style=flat&logo=Linkedin&logoColor=white)](https//www.linkedin.com/in/matheus-leite-dev/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Leite-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-leite-dev/)
   
 ---
 ### ⚙️ Languages and Tools :
