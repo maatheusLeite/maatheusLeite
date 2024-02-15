@@ -10,9 +10,6 @@
   
   <a href="https://www.youtube.com/channel/UCshj1P9OWQoTEujjYcLUbsw" target="_blank"> 
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
-  <br>
-    
-  <img src="https://komarev.com/ghpvc/?username=maatheusLeite&style=flat-square&color=blue" alt="Profile views counter" />
 </div>
   
 <h1 align="center">
