@@ -56,7 +56,7 @@ I am a Full Stack Developer from Brazil 🇧🇷
 ---
   
 ### 📈 My Stats :  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maatheusLeite&show_icons=true&theme=dark&border_radius=15&ring_color=21A27A&text_color=F6F5F4&card_width=495)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maatheusLeite&show_icons=true&theme=dark&border_radius=15&ring_color=21A27A&text_color=F6F5F4&card_width=495) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maatheusLeite&theme=black-ice&border_radius=15&mode=weekly&ring=EB5454&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
   
