@@ -7,9 +7,10 @@
   <a href="https://www.linkedin.com/in/matheus-leite-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  
+    <!-- 
   <a href="https://www.youtube.com/channel/UCshj1P9OWQoTEujjYcLUbsw" target="_blank"> 
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
+  -->
 </div>
   
 <h1 align="center">
@@ -27,7 +28,7 @@
 I am a Full Stack Developer from Brazil 🇧🇷
   
 - 💻 I’m currently learning more about Node.js
-- 📚 In my free time I like to read, play video games and study new technologies.
+  <!-- - 📚 In my free time I like to read, play video games and study new technologies. -->
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Leite-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-leite-dev/)
   
 ---
@@ -52,13 +53,14 @@ I am a Full Stack Developer from Brazil 🇧🇷
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="60" height="60"/>
 </div>
-  
+
+ 
 ---
   
 ### 📈 My Stats :  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maatheusLeite&show_icons=true&theme=dark&border_radius=15&ring_color=21A27A&text_color=F6F5F4&card_width=495) -->
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maatheusLeite&show_icons=true&theme=dark&border_radius=15&ring_color=21A27A&text_color=F6F5F4&card_width=495)  -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maatheusLeite&theme=black-ice&border_radius=15&mode=weekly&ring=EB5454&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maatheusLeite&layout=compact&theme=dark&border_radius=15&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maatheusLeite&layout=compact&theme=dark&border_radius=15&card_width=495)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
